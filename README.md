@@ -8,7 +8,7 @@
 
 🎓 IT Trainer @ESPRIT
 
-🔍 Always learning and exploring new technologies
+🔍 Learn learn learn !
 
 <h2 align='center'>🛠 Technologies & Tools</h2>
 
