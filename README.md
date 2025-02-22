@@ -42,4 +42,4 @@ LinkedIn: https://www.linkedin.com/in/imen-el-hakim/
 
 Email: imen.elhakim@esprit.tn
 
-Tiktok : <a href='https://www.tiktok.com/@imenelhakim?is_from_webapp=1&sender_device=pc'>Tiktok link.</a>
+Tiktok : <a href='https://www.tiktok.com/@imenelhakim?is_from_webapp=1&sender_device=pc' target='_blank' >Tiktok link.</a>
